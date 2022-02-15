@@ -11,5 +11,5 @@ Part 3: Increase multiclass accuracy to at least 97% and display precision, reca
         Was done using a KNN model.
 
 Part 4: Using data augmentation, increase multiclass accuracy to at least 98%.
-        By shifting image pixels up, down, left, and right, increased training data to 300,000 from 60,000
+        By shifting image pixels up, down, left, and right, increased training data to 300,000 from 60,000.
         This was done using a KNN model.
