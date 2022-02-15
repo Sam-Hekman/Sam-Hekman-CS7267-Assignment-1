@@ -1,4 +1,4 @@
-# Sam-Hekman-CS7276-Assignment-1
+# Sam-Hekman-CS7267-Assignment-1
 Assignment 1 using the MNIST dataset
 
 Includes Parts 1-4
